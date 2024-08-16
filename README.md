@@ -5,3 +5,5 @@
 ![Day 2](https://github.com/aarish22/PytorchFundamentals/blob/main/Snippets/Tensors%20(2).png)
 - Day 3
 ![Day 3](https://github.com/aarish22/PytorchFundamentals/blob/main/Snippets/Tensors3.png)
+- Day 4
+![Day 4](https://github.com/aarish22/PytorchFundamentals/blob/main/Snippets/Tensors-4.png)
