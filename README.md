@@ -1,1 +1,1 @@
-`I will be sharing my pytoch journey`
+`I will be sharing my pytorch journey`
